@@ -161,116 +161,22 @@ PQC
 <br>
 
 
----<!-- ========================================================= -->
-<!--                    PROOF OF WORK                           -->
-<!-- ========================================================= -->
+---<td width="33%" align="center">
 
-<div align="center">
+<img src="./assets/animations/gold.gif" width="55">
 
-# 🏆 Proof of Work
+### Quantum Arena 1.0
 
-### **Building, competing, and shipping at a high level.**
+**🏆 WINNER**
 
-<br>
-
-</div>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🥇 Quantum Arena 1.0
-
-**WINNER**
-
-🏆 National Quantum Computing Hackathon
-
-`QUANTUM` · `HACKATHON`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🥈 Hero IIC 2K26
-
-**RUNNER-UP**
-
-🌍 International Hackathon
-
-`INTERNATIONAL` · `HACKATHON`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 ISRO Bharatiya Antariksha Hackathon
-
-**TOP 10 NATIONWIDE**
-
-🛰️ Bharatiya Antariksha Hackathon 2025
-
-`AI` · `SPACE TECH` · `HACKATHON`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔥 Meta Hacker Cup 2025
-
-**GLOBAL RANK #141**
-
-🌎 **Top 1.5% Worldwide**
-
-`COMPETITIVE PROGRAMMING`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⭐ Flipkart GRID 8.0
-
-**SEMIFINALIST**
-
-👥 **165,000+ Participants**
-
-`COMPETITIVE PROGRAMMING` · `TECH`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👨‍💻 CodeChef
-
-**3★ CODER**
-
-🌍 **Global Rank #94**
-
-`ALGORITHMS` · `COMPETITIVE PROGRAMMING`
-
-</td>
-
-</tr>
-
-</table>
+National Quantum Computing  
+Hackathon
 
 <br>
 
-<div align="center">
+<code>QUANTUM</code> &nbsp; <code>HACKATHON</code>
 
-### 🧩 Competitive Programming
-
-**250+ LeetCode Problems Solved** &nbsp; • &nbsp; **CodeChef 3★** &nbsp; • &nbsp; **Meta Hacker Cup Global #141**
-
-</div>
+</td>
 
 ---
 <!-- ========================================================= -->
