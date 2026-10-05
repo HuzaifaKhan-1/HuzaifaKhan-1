@@ -111,261 +111,29 @@ alt="Profile Views"
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ENGINEERING IDENTITY                        -->
+---<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         PROOF OF WORK                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🧠 ENGINEERING IDENTITY
-
-### `Think → Design → Build → Deploy → Impact`
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 👩‍💻 WHO I AM
-
-I'm a **Computer Engineering student and AI-focused Software Engineer** passionate about turning ambitious ideas into **intelligent, scalable and production-oriented technology**.
-
-I enjoy working across the complete engineering lifecycle — from understanding a problem and designing the architecture to implementing, deploying and continuously improving the solution.
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ WHAT I BUILD
-
-I work at the intersection of:
-
-🤖 **Artificial Intelligence**  
-💻 **Software Engineering**  
-☁️ **Cloud & Data Engineering**  
-🧠 **Generative AI & AI Agents**  
-⚛️ **Quantum & Post-Quantum Security**
-
-My goal is simple:
-
-> **Build technology that solves real problems — not just impressive demos.**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ENGINEERING PHILOSOPHY                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⚙️ ENGINEERING PHILOSOPHY
-
-</div>
-
-<table align="center">
-<tr>
-
-<td align="center" width="20%">
-
-### 💡
-**IDEATE**
-
-Problem  
-Understanding
-
-</td>
-
-<td align="center">
-
-➜
-
-</td>
-
-<td align="center" width="20%">
-
-### 🏗️
-**ARCHITECT**
-
-Systems  
-Design
-
-</td>
-
-<td align="center">
-
-➜
-
-</td>
-
-<td align="center" width="20%">
-
-### ⚡
-**BUILD**
-
-Code  
-Models  
-APIs
-
-</td>
-
-<td align="center">
-
-➜
-
-</td>
-
-<td align="center" width="20%">
-
-### ☁️
-**DEPLOY**
-
-Cloud  
-Data  
-Infrastructure
-
-</td>
-
-<td align="center">
-
-➜
-
-</td>
-
-<td align="center" width="20%">
-
-### 🚀
-**IMPACT**
-
-Real-World  
-Solutions
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-> ### **"I don't just build models. I engineer systems around them."**
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       WHAT I BUILD                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🚀 WHAT I BUILD
-
-</div>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="33%">
-
-### 🤖 AI / ML
-
-Machine Learning  
-Deep Learning  
-Computer Vision  
-Predictive Systems
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠 GENERATIVE AI
-
-LLM Applications  
-RAG Systems  
-AI Agents  
-Agentic Workflows
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻 SOFTWARE
-
-Backend Systems  
-REST APIs  
-Enterprise Applications  
-System Design
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### ☁️ CLOUD
-
-AWS  
-Azure  
-Cloud Architecture  
-Deployment
-
-</td>
-
-<td align="center">
-
-### 📊 DATA
-
-Snowflake  
-dbt  
-Data Pipelines  
-Data Warehousing
-
-</td>
-
-<td align="center">
-
-### ⚛️ EMERGING TECH
-
-Quantum Computing  
-Qiskit  
-PQC  
-Digital Signatures
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
----
-
-<div align="center">
-
-### 🔥 FROM IDEA TO PRODUCTION
-
-`Problem` → `Architecture` → `AI / Software` → `Cloud` → `Deployment` → `Impact`
+## 🏆 PROOF OF WORK
+
+<img
+src="./achievements-banner.png"
+width="100%"
+alt="Huzaifa Khan — Achievements"
+/>
+
+<br><br>
+
+🥇 **Quantum Arena 1.0 Winner**  
+🥈 **Hero IIC 2K26 International Hackathon — Runner-Up**  
+🚀 **ISRO Bharatiya Antariksha Hackathon — Top 10 Nationwide**
+
+🔥 **Meta Hacker Cup 2025 — Global Rank #141 · Top 1.5%**  
+⭐ **Flipkart GRID 8.0 — Semifinalist · 165K+ Participants**  
+👨‍💻 **CodeChef 3★ — Global Rank #94**
 
 </div>
 
