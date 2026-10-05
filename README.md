@@ -1,6 +1,6 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                        HERO                                -->
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -8,104 +8,106 @@
      width="100%"
      alt="Huzaifa Khan — AI Engineer • Software Engineer • Builder">
 
-<br>
+<br><br>
 
-<!-- ANIMATED TYPING -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=AI+ENGINEER+%7C+SOFTWARE+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;GENERATIVE+AI+%7C+AI+AGENTS+%7C+RAG;CLOUD+%26+DATA+ENGINEERING;QUANTUM+%26+POST-QUANTUM+SECURITY"
-alt="Animated typing">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=AI+ENGINEER+%7C+SOFTWARE+ENGINEER;GENERATIVE+AI+%7C+AI+AGENTS;CLOUD+%26+DATA+ENGINEERING;QUANTUM+%26+POST-QUANTUM+SECURITY"
+     alt="Typing animation">
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/huzaifakamaalkhan/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-&nbsp;
+
 <a href="https://hkofficial.in">
 <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
-&nbsp;
+
 <a href="https://github.com/HuzaifaKhan-1">
 <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HuzaifaKhan-1&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS">
+<img src="https://komarev.com/ghpvc/?username=HuzaifaKhan-1&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS">
 
 </div>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED DIVIDER                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=90&section=header">
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    IDENTITY                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                 CORE IDENTITY                              -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-## ⚡ AI × SOFTWARE × CLOUD × QUANTUM
+# ⚡ AI × SOFTWARE × CLOUD × QUANTUM
 
-**Turning ideas → intelligent systems → real-world impact.**
+### Building intelligent systems that move from **idea → architecture → implementation → impact.**
 
 <br>
 
 `🤖 Artificial Intelligence`
-&nbsp; × &nbsp;
+&nbsp;&nbsp;×&nbsp;&nbsp;
 `💻 Software Engineering`
-&nbsp; × &nbsp;
+&nbsp;&nbsp;×&nbsp;&nbsp;
 `☁️ Cloud & Data`
-&nbsp; × &nbsp;
+&nbsp;&nbsp;×&nbsp;&nbsp;
 `⚛️ Quantum`
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROOF OF WORK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                  ABOUT ME                                  -->
+<!-- ========================================================= -->
 
-<div align="center">
+## 👋 Hey, I'm Huzaifa
 
-## 🏆 PROOF OF WORK
+I'm a **Computer Engineering student and AI-focused Software Engineer** passionate about building intelligent, scalable and production-oriented technology.
 
-<img src="./achievements-banner.png"
-     width="100%"
-     alt="Achievements">
+I work across:
 
-<br><br>
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧠 **Generative AI, RAG & AI Agents**
+- 💻 **Backend & Software Engineering**
+- ☁️ **Cloud & Data Engineering**
+- ⚛️ **Quantum Computing & Post-Quantum Security**
 
-🥇 **Quantum Arena 1.0 — Winner**  
-🥈 **Hero IIC 2K26 — Runner-Up**  
-🚀 **ISRO Bharatiya Antariksha Hackathon — Top 10**
-
-🔥 **Meta Hacker Cup 2025 — Global Rank #141 · Top 1.5%**
-
-⭐ **Flipkart GRID 8.0 — Semifinalist · 165K+ Participants**
-
-👨‍💻 **CodeChef 3★ — Global Rank #94**
-
-</div>
+> **I don't just build models — I engineer systems around them.**
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED WORK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                  PROOF OF WORK                             -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-## 🚀 FEATURED WORK
+## 🏆 Proof of Work
+
+</div>
+
+| 🏅 Achievement | Result |
+|---|---|
+| 🥇 **Quantum Arena 1.0** | **Winner — National Quantum Computing Hackathon** |
+| 🥈 **Hero IIC 2K26** | **Runner-Up — International Hackathon** |
+| 🚀 **ISRO Bharatiya Antariksha Hackathon 2025** | **Top 10 Nationwide** |
+| 🔥 **Meta Hacker Cup 2025** | **Global Rank #141 — Top 1.5%** |
+| ⭐ **Flipkart GRID 8.0** | **Semifinalist — 165K+ Participants** |
+| 👨‍💻 **CodeChef** | **3★ Coder — Global Rank #94** |
+| 🧩 **LeetCode** | **250+ Problems Solved** |
+
+---
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                          -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🚀 Featured Work
 
 </div>
 
@@ -122,6 +124,8 @@ alt="Animated typing">
 
 🏆 **ISRO Hackathon — Top 10 Nationwide**
 
+AI-driven modeling and prediction of forest-fire propagation.
+
 </td>
 
 <td width="50%" valign="top">
@@ -132,7 +136,7 @@ alt="Animated typing">
 
 `Qiskit` `Python` `PQC` `Cryptography`
 
-Exploring next-generation secure communication.
+Exploring quantum digital signatures and next-generation secure communication.
 
 </td>
 
@@ -148,7 +152,7 @@ Exploring next-generation secure communication.
 
 `GenAI` `AI Agents` `FastAPI` `Node.js` `MongoDB`
 
-Intelligent recommendations for real-world logistics.
+Intelligent recommendations designed for real-world logistics and supply-chain decisions.
 
 </td>
 
@@ -156,11 +160,11 @@ Intelligent recommendations for real-world logistics.
 
 ### 🛒 ProductHub
 
-**AI-Powered Enterprise Platform**
+**AI-Powered Enterprise Product Platform**
 
-`.NET` `ASP.NET Core` `MVC` `Azure OpenAI`
+`.NET` `ASP.NET Core` `Web API` `MVC` `Azure OpenAI`
 
-Enterprise software meets Generative AI.
+Combining enterprise software engineering with Generative AI.
 
 </td>
 
@@ -174,7 +178,7 @@ Enterprise software meets Generative AI.
 
 `Amazon S3` → `Snowflake` → `dbt` → `SQL` → `Analytics`
 
-**Modern cloud-native data pipeline built around real-world e-commerce data.**
+Modern cloud-native data pipeline built around real-world e-commerce data.
 
 </td>
 
@@ -184,27 +188,27 @@ Enterprise software meets Generative AI.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                    TECHNOLOGY                              -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-## 🧠 TECHNOLOGY UNIVERSE
+## 🧠 Technology Stack
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv">
+
+<br><br>
+
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `Transfer Learning`
 
 <br><br>
 
 ### 🧠 Generative AI
 
-<img src="https://skillicons.dev/icons?i=python">
-
-<br>
-
-`LangChain` `LangGraph` `RAG` `AI Agents` `OpenAI` `Gemini`
+`LangChain` · `LangGraph` · `RAG` · `AI Agents` · `OpenAI` · `Gemini`
 
 <br><br>
 
@@ -214,13 +218,17 @@ Enterprise software meets Generative AI.
 
 <br><br>
 
+`REST APIs` · `Backend Development` · `MVC` · `Entity Framework` · `System Design`
+
+<br><br>
+
 ### ☁️ Cloud & Data
 
-<img src="https://skillicons.dev/icons?i=aws,azure,mysql,mongodb">
+<img src="https://skillicons.dev/icons?i=aws,azure,mongodb">
 
 <br>
 
-`Amazon S3` `Snowflake` `dbt` `SQL` `Data Warehousing`
+`Amazon S3` · `Snowflake` · `dbt` · `SQL` · `Data Warehousing` · `Data Pipelines`
 
 <br><br>
 
@@ -230,30 +238,35 @@ Enterprise software meets Generative AI.
 
 <br><br>
 
-### ⚛️ Quantum
+`CI/CD` · `Docker` · `Cloud Deployment` · `Version Control`
 
-<img src="https://img.shields.io/badge/QISKIT-6929C4?style=for-the-badge&logo=qiskit&logoColor=white">
+<br><br>
 
-<br>
+### ⚛️ Quantum & Security
 
-`Quantum Computing` · `Quantum Cryptography` · `Post-Quantum Cryptography`
+`Qiskit` · `Quantum Computing` · `Quantum Cryptography` · `Post-Quantum Cryptography`
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    COMPETITIVE PROGRAMMING                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                COMPETITIVE PROGRAMMING                     -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-## 🧩 COMPETITIVE PROGRAMMING
+## 🧩 Competitive Programming
 
-<img src="https://img.shields.io/badge/CodeChef-3★-B8860B?style=for-the-badge&logo=codechef&logoColor=white">
-<img src="https://img.shields.io/badge/Global_Rank-#94-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/LeetCode-250+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-<img src="https://img.shields.io/badge/Meta_Hacker_Cup-#141-1877F2?style=for-the-badge">
+<br>
+
+<img src="https://img.shields.io/badge/CODECHEF-3★-B8860B?style=for-the-badge&logo=codechef&logoColor=white">
+
+<img src="https://img.shields.io/badge/GLOBAL_RANK-#94-111827?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/LEETCODE-250%2B_PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+
+<img src="https://img.shields.io/badge/META_HACKER_CUP-GLOBAL_#141-1877F2?style=for-the-badge">
 
 <br><br>
 
@@ -265,13 +278,15 @@ Enterprise software meets Generative AI.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                   GITHUB ANALYTICS                         -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+## 📊 GitHub Analytics
+
+<br>
 
 <img height="180"
 src="https://github-readme-stats.vercel.app/api?username=HuzaifaKhan-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
@@ -289,74 +304,61 @@ alt="GitHub Streak">
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 3D CONTRIBUTION GRAPH                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                CURRENTLY EXPLORING                         -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-## 🌐 3D CONTRIBUTION UNIVERSE
+## 🔭 Currently Exploring
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"
-     width="100%"
-     alt="3D GitHub Contribution Graph">
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED SNAKE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🐍 CONTRIBUTION ACTIVITY
-
-<img src="https://raw.githubusercontent.com/HuzaifaKhan-1/HuzaifaKhan-1/output/github-contribution-grid-snake-dark.svg"
-     alt="Animated GitHub Contribution Snake">
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CURRENTLY EXPLORING                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🔭 CURRENTLY EXPLORING
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=600&color=8B5CF6&center=true&vCenter=true&width=800&height=40&lines=Generative+AI+%E2%86%92+AI+Agents;AI+Agents+%E2%86%92+Cloud+Engineering;Snowflake+%2B+dbt+%E2%86%92+Data+Engineering;Scalable+AI+Applications;Quantum+%26+Post-Quantum+Security"
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=700&color=8B5CF6&center=true&vCenter=true&width=800&height=40&lines=Generative+AI+%E2%86%92+AI+Agents;AI+Agents+%E2%86%92+Scalable+Applications;Snowflake+%2B+dbt+%E2%86%92+Data+Engineering;Cloud-Native+AI+Systems;Quantum+%26+Post-Quantum+Security"
 alt="Currently exploring">
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONNECT                                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
+<!--                    ENGINEERING MINDSET                     -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-## 🤝 LET'S CONNECT
+## ⚡ Engineering Mindset
+
+### **Concept → Architecture → Code → Deployment → Impact**
+
+<br>
+
+**Build systems. Solve problems. Learn continuously.**
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                       CONNECT                              -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/huzaifakamaalkhan/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-HUZAIFA_KHAN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://hkofficial.in">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/PORTFOLIO-HKOFFICIAL.IN-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="mailto:huzaifakamaalkhan@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/HuzaifaKhan-1">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-HUZAIFAKHAN--1-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
@@ -365,8 +367,8 @@ alt="Currently exploring">
 
 *Turning ideas into intelligent systems and real-world software.*
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=120&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=110&section=footer">
 
 </div>
