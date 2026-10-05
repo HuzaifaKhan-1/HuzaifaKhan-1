@@ -4,29 +4,89 @@
 
 <br><br>
 
-<h2>AI Engineer • Software Engineer • Builder</h2>
+<div align="center">
 
-<p>
-Building intelligent systems, scalable software & next-generation technology.
-</p>
+<!-- Animated Hero -->
 
-<p>
-🤖 AI &nbsp; • &nbsp; 💻 Software Engineering &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; ⚛️ Quantum
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Software+Engineer+%7C+Builder;Building+Intelligent+Systems+%26+Scalable+Software;AI+%C3%97+Software+%C3%97+Cloud+%C3%97+Quantum;Turning+Ideas+Into+Real-World+Technology" alt="Typing Animation">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=2&section=header" width="85%">
+
+<br>
+
+### ⚡ Building the Future at the Intersection of
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+## AI
+
+`ML` · `DL`  
+`GenAI` · `RAG`  
+`AI Agents`
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+## SOFTWARE
+
+`Backend` · `APIs`  
+`.NET` · `FastAPI`  
+`System Design`
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+## CLOUD
+
+`AWS` · `Azure`  
+`S3` · `Snowflake`  
+`dbt` · `Data`
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛️
+## QUANTUM
+
+`Qiskit`  
+`Quantum Computing`  
+`PQC`
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <a href="https://www.linkedin.com/in/huzaifakamaalkhan/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="https://hkofficial.in">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="https://github.com/HuzaifaKhan-1">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:EC4899&height=100&section=header" width="100%">
 
 </div>
 
@@ -34,39 +94,22 @@ Building intelligent systems, scalable software & next-generation technology.
 
 # 👋 Hey, I'm Huzaifa
 
-I'm a **Computer Engineering student and AI-focused Software Engineer** passionate about turning ambitious ideas into real-world technology.
+> **Computer Engineering Student • AI Engineer • Software Engineer • Builder**
 
-I build at the intersection of **Artificial Intelligence, Software Engineering and Cloud**, with growing expertise in modern data platforms and emerging technologies.
+I'm passionate about turning ambitious ideas into **intelligent, scalable and production-oriented technology**.
 
-I enjoy taking ideas from:
+I build at the intersection of:
 
-**Concept → Architecture → Implementation → Deployment → Impact**
-
-### ⚡ What I Build
-
-- 🤖 **AI / ML Systems** — Machine Learning, Deep Learning & Computer Vision
-- 🧠 **Generative AI** — LLM applications, RAG & AI Agents
-- 💻 **Software Engineering** — Backend systems, APIs & scalable applications
-- ☁️ **Cloud Engineering** — AWS, Azure & cloud-native solutions
-- 📊 **Data Engineering** — Snowflake, dbt, Amazon S3 & modern data pipelines
-- ⚛️ **Emerging Technology** — Quantum Computing & Post-Quantum Cryptography
-- 🚀 **Competitive Programming** — Algorithms, problem solving & coding contests
-
----
-
-<div align="center">
-
-## ⚡ AI × SOFTWARE × CLOUD × QUANTUM
-
-</div>
-
----
-
-# 🧠 Engineering Mindset
-
-> **I don't just want to build models. I want to engineer systems around them.**
-
-From experimenting with AI models and GenAI applications to designing APIs, cloud architectures and data pipelines, I enjoy building technology that moves beyond a prototype.
+```text
+        🤖 Artificial Intelligence
+                  ×
+        💻 Software Engineering
+                  ×
+             ☁️ Cloud
+                  ×
+          📊 Data Engineering
+                  ×
+           ⚛️ Emerging Tech
 
 
 # 🏆 Proof of Work
