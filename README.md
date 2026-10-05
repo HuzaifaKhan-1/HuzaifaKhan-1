@@ -102,56 +102,150 @@ I enjoy working across the entire engineering lifecycle:
 
 <td align="center" width="20%">
 
-### 🤖
-**AI / ML**
+<!-- ========================================================= -->
+<!--                 🧠 ENGINEERING DOMAINS                    -->
+<!-- ========================================================= -->
 
-Machine Learning  
-Deep Learning  
-Computer Vision
+<div align="center">
 
-</td>
+# ⚡ Engineering Domains
 
-<td align="center" width="20%">
+### *Where I build, experiment and engineer.*
 
-### 🧠
-**GEN AI**
+</div>
 
-LLMs  
-RAG  
-AI Agents
+<br>
 
-</td>
+<table align="center">
+<tr>
 
-<td align="center" width="20%">
-
-### 💻
-**SOFTWARE**
-
-Backend  
-APIs  
-System Design
-
-</td>
+<!-- ======================== AI / ML ======================== -->
 
 <td align="center" width="20%">
 
-### ☁️
-**CLOUD & DATA**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=180&height=45&lines=%F0%9F%A4%96+AI+%2F+ML" />
 
-AWS  
-Snowflake  
-Data Engineering
+<br>
+
+<sub><b>INTELLIGENCE</b></sub>
+
+<br><br>
+
+🤖 **Machine Learning**
+
+🧠 **Deep Learning**
+
+👁️ **Computer Vision**
+
+<br><br>
+
+<code>Python</code>
+<code>PyTorch</code>
+<code>TensorFlow</code>
 
 </td>
 
+<!-- ======================== GEN AI ======================== -->
+
 <td align="center" width="20%">
 
-### ⚛️
-**QUANTUM**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=700&color=C084FC&center=true&vCenter=true&width=180&height=45&lines=%F0%9F%A7%A0+GEN+AI" />
 
-Qiskit  
-Quantum Computing  
-PQC
+<br>
+
+<sub><b>GENERATIVE SYSTEMS</b></sub>
+
+<br><br>
+
+🧠 **LLM Applications**
+
+🔎 **RAG**
+
+🤖 **AI Agents**
+
+<br><br>
+
+<code>LangChain</code>
+<code>LangGraph</code>
+<code>OpenAI</code>
+
+</td>
+
+<!-- ======================== SOFTWARE ======================== -->
+
+<td align="center" width="20%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=700&color=38BDF8&center=true&vCenter=true&width=190&height=45&lines=%F0%9F%92%BB+SOFTWARE" />
+
+<br>
+
+<sub><b>ENGINEERING</b></sub>
+
+<br><br>
+
+⚙️ **Backend Systems**
+
+🔗 **REST APIs**
+
+🏗️ **System Design**
+
+<br><br>
+
+<code>.NET</code>
+<code>FastAPI</code>
+<code>Node.js</code>
+
+</td>
+
+<!-- ======================== CLOUD ======================== -->
+
+<td align="center" width="20%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=700&color=22D3EE&center=true&vCenter=true&width=190&height=45&lines=%E2%98%81%EF%B8%8F+CLOUD+%26+DATA" />
+
+<br>
+
+<sub><b>DATA INFRASTRUCTURE</b></sub>
+
+<br><br>
+
+☁️ **Cloud Engineering**
+
+❄️ **Snowflake**
+
+📊 **Data Engineering**
+
+<br><br>
+
+<code>AWS</code>
+<code>S3</code>
+<code>dbt</code>
+
+</td>
+
+<!-- ======================== QUANTUM ======================== -->
+
+<td align="center" width="20%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=700&color=A78BFA&center=true&vCenter=true&width=190&height=45&lines=%E2%9A%9B%EF%B8%8F+QUANTUM" />
+
+<br>
+
+<sub><b>EMERGING TECHNOLOGY</b></sub>
+
+<br><br>
+
+⚛️ **Quantum Computing**
+
+🔐 **Post-Quantum Security**
+
+🧬 **Quantum Cryptography**
+
+<br><br>
+
+<code>Qiskit</code>
+<code>PQC</code>
+<code>Cryptography</code>
 
 </td>
 
@@ -160,6 +254,23 @@ PQC
 
 <br>
 
+<!-- ========================================================= -->
+<!--                 ANIMATED ENGINEERING FLOW                  -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=50&lines=AI+%E2%86%92+INTELLIGENT+SYSTEMS+%E2%86%92+SCALABLE+SOFTWARE;DATA+%E2%86%92+CLOUD+%E2%86%92+PRODUCTION+PIPELINES;QUANTUM+%E2%86%92+NEXT-GENERATION+SECURITY;IDEA+%E2%86%92+ARCHITECTURE+%E2%86%92+ENGINEERING+%E2%86%92+IMPACT" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`AI` &nbsp; × &nbsp; `GEN AI` &nbsp; × &nbsp; `SOFTWARE` &nbsp; × &nbsp; `CLOUD` &nbsp; × &nbsp; `QUANTUM`
+
+</div>
 
 ---
 
