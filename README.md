@@ -103,14 +103,14 @@ I enjoy working across the entire engineering lifecycle:
 <td align="center" width="20%">
 
 <!-- ========================================================= -->
-<!--                 🧠 ENGINEERING DOMAINS                    -->
+<!--                 ⚡ ENGINEERING DOMAINS                    -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 # ⚡ Engineering Domains
 
-### *Where I build, experiment and engineer.*
+### *Where I build • experiment • engineer*
 
 </div>
 
@@ -119,133 +119,133 @@ I enjoy working across the entire engineering lifecycle:
 <table align="center">
 <tr>
 
-<!-- ======================== AI / ML ======================== -->
+<!-- ========================= AI / ML ========================= -->
 
-<td align="center" width="20%">
+<td width="33%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=180&height=45&lines=%F0%9F%A4%96+AI+%2F+ML" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=900&color=58A6FF&center=true&vCenter=true&width=220&height=40&lines=%F0%9F%A4%96+AI+%2F+ML" />
 
-<br>
-
-<sub><b>INTELLIGENCE</b></sub>
+<sub>INTELLIGENCE</sub>
 
 <br><br>
 
-🤖 **Machine Learning**
-
-🧠 **Deep Learning**
-
+🤖 **Machine Learning**  
+🧠 **Deep Learning**  
 👁️ **Computer Vision**
 
 <br><br>
 
-<code>Python</code>
-<code>PyTorch</code>
-<code>TensorFlow</code>
+`Python` `PyTorch` `TensorFlow`
 
 </td>
 
-<!-- ======================== GEN AI ======================== -->
+<!-- ========================= GEN AI ========================= -->
 
-<td align="center" width="20%">
+<td width="33%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=700&color=C084FC&center=true&vCenter=true&width=180&height=45&lines=%F0%9F%A7%A0+GEN+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=900&color=C084FC&center=true&vCenter=true&width=220&height=40&lines=%F0%9F%A7%A0+GEN+AI" />
 
-<br>
-
-<sub><b>GENERATIVE SYSTEMS</b></sub>
+<sub>GENERATIVE SYSTEMS</sub>
 
 <br><br>
 
-🧠 **LLM Applications**
-
-🔎 **RAG**
-
+🧠 **LLM Applications**  
+🔎 **RAG**  
 🤖 **AI Agents**
 
 <br><br>
 
-<code>LangChain</code>
-<code>LangGraph</code>
-<code>OpenAI</code>
+`LangChain` `LangGraph` `OpenAI`
 
 </td>
 
-<!-- ======================== SOFTWARE ======================== -->
+<!-- ========================= SOFTWARE ========================= -->
 
-<td align="center" width="20%">
+<td width="33%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=700&color=38BDF8&center=true&vCenter=true&width=190&height=45&lines=%F0%9F%92%BB+SOFTWARE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=900&color=38BDF8&center=true&vCenter=true&width=220&height=40&lines=%F0%9F%92%BB+SOFTWARE" />
 
-<br>
-
-<sub><b>ENGINEERING</b></sub>
+<sub>ENGINEERING</sub>
 
 <br><br>
 
-⚙️ **Backend Systems**
-
-🔗 **REST APIs**
-
+⚙️ **Backend Systems**  
+🔗 **REST APIs**  
 🏗️ **System Design**
 
 <br><br>
 
-<code>.NET</code>
-<code>FastAPI</code>
-<code>Node.js</code>
+`.NET` `FastAPI` `Node.js`
 
 </td>
 
-<!-- ======================== CLOUD ======================== -->
+</tr>
 
-<td align="center" width="20%">
+<tr>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=700&color=22D3EE&center=true&vCenter=true&width=190&height=45&lines=%E2%98%81%EF%B8%8F+CLOUD+%26+DATA" />
+<!-- ========================= CLOUD ========================= -->
 
-<br>
+<td width="33%" align="center">
 
-<sub><b>DATA INFRASTRUCTURE</b></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=900&color=22D3EE&center=true&vCenter=true&width=220&height=40&lines=%E2%98%81%EF%B8%8F+CLOUD+%26+DATA" />
+
+<sub>DATA INFRASTRUCTURE</sub>
 
 <br><br>
 
-☁️ **Cloud Engineering**
-
-❄️ **Snowflake**
-
+☁️ **Cloud Engineering**  
+❄️ **Snowflake**  
 📊 **Data Engineering**
 
 <br><br>
 
-<code>AWS</code>
-<code>S3</code>
-<code>dbt</code>
+`AWS` `S3` `dbt`
 
 </td>
 
-<!-- ======================== QUANTUM ======================== -->
+<!-- ========================= QUANTUM ========================= -->
 
-<td align="center" width="20%">
+<td width="33%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1800&pause=700&color=A78BFA&center=true&vCenter=true&width=190&height=45&lines=%E2%9A%9B%EF%B8%8F+QUANTUM" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=900&color=A78BFA&center=true&vCenter=true&width=220&height=40&lines=%E2%9A%9B%EF%B8%8F+QUANTUM" />
 
-<br>
-
-<sub><b>EMERGING TECHNOLOGY</b></sub>
+<sub>EMERGING TECHNOLOGY</sub>
 
 <br><br>
 
-⚛️ **Quantum Computing**
-
-🔐 **Post-Quantum Security**
-
+⚛️ **Quantum Computing**  
+🔐 **Post-Quantum Security**  
 🧬 **Quantum Cryptography**
 
 <br><br>
 
-<code>Qiskit</code>
-<code>PQC</code>
-<code>Cryptography</code>
+`Qiskit` `PQC` `Cryptography`
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🚀</h3>
+
+### Engineering Philosophy
+
+**IDEA**
+
+↓  
+
+**ARCHITECTURE**
+
+↓
+
+**ENGINEERING**
+
+↓
+
+**DEPLOYMENT**
+
+↓
+
+**IMPACT**
 
 </td>
 
@@ -255,12 +255,12 @@ I enjoy working across the entire engineering lifecycle:
 <br>
 
 <!-- ========================================================= -->
-<!--                 ANIMATED ENGINEERING FLOW                  -->
+<!--                  ANIMATED CORE LOOP                        -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=50&lines=AI+%E2%86%92+INTELLIGENT+SYSTEMS+%E2%86%92+SCALABLE+SOFTWARE;DATA+%E2%86%92+CLOUD+%E2%86%92+PRODUCTION+PIPELINES;QUANTUM+%E2%86%92+NEXT-GENERATION+SECURITY;IDEA+%E2%86%92+ARCHITECTURE+%E2%86%92+ENGINEERING+%E2%86%92+IMPACT" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=850&height=45&lines=AI+%E2%86%92+INTELLIGENT+SYSTEMS;GEN+AI+%E2%86%92+AGENTS+%26+RAG;SOFTWARE+%E2%86%92+SCALABLE+BACKENDS;CLOUD+%26+DATA+%E2%86%92+PRODUCTION+PIPELINES;QUANTUM+%E2%86%92+NEXT-GENERATION+SECURITY" />
 
 </div>
 
@@ -273,7 +273,6 @@ I enjoy working across the entire engineering lifecycle:
 </div>
 
 ---
-
 <!-- ========================================================= -->
 <!--                    🏆 PROOF OF WORK                       -->
 <!-- ========================================================= -->
