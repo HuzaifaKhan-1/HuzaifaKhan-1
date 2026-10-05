@@ -581,8 +581,6 @@ Modern cloud-native data pipeline built around real-world e-commerce data.
 
 <img src="https://img.shields.io/badge/CODECHEF-3★-B8860B?style=for-the-badge&logo=codechef&logoColor=white">
 
-<img src="https://img.shields.io/badge/GLOBAL_RANK-#94-111827?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/LEETCODE-250%2B_PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 
 <img src="https://img.shields.io/badge/META_HACKER_CUP-GLOBAL_#141-1877F2?style=for-the-badge">
