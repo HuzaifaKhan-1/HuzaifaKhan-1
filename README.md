@@ -4,22 +4,6 @@
 
 </div>
 
-<div align="center">
-
-# HUZAIFA KHAN
-
-### AI Engineer • Software Engineer • Builder
-
-<p>
-Building intelligent systems, scalable software & next-generation technology.
-</p>
-
-<p>
-🤖 AI &nbsp; • &nbsp; 💻 Software Engineering &nbsp; • &nbsp; ☁️ Cloud &nbsp; • &nbsp; ⚛️ Quantum
-</p>
-
-</div>
-
 ---
 
 ## 👋 Hey, I'm Huzaifa
