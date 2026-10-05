@@ -58,27 +58,115 @@
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--                      ABOUT ME                              -->
+<!-- ========================================================= -->
 
-<!-- ========================================================= -->
-<!--                  ABOUT ME                                  -->
-<!-- ========================================================= -->
+<div align="center">
 
 ## 👋 Hey, I'm Huzaifa
 
-I'm a **Computer Engineering student and AI-focused Software Engineer** passionate about building intelligent, scalable and production-oriented technology.
+### **Computer Engineer • AI Engineer • Software Engineer • Builder**
 
-I work across:
+<br>
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🧠 **Generative AI, RAG & AI Agents**
-- 💻 **Backend & Software Engineering**
-- ☁️ **Cloud & Data Engineering**
-- ⚛️ **Quantum Computing & Post-Quantum Security**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=40&lines=Building+Intelligent+Systems;Engineering+Scalable+Software;Connecting+AI%2C+Cloud+%26+Data;Exploring+Quantum+%26+Post-Quantum+Security"
+alt="What I build">
 
-> **I don't just build models — I engineer systems around them.**
+</div>
+
+<br>
+
+I'm passionate about turning **ambitious ideas into intelligent, scalable and real-world technology**.
+
+I enjoy working across the entire engineering lifecycle:
+
+<div align="center">
+
+`💡 IDEA`
+&nbsp; → &nbsp;
+`🏗️ ARCHITECTURE`
+&nbsp; → &nbsp;
+`⚙️ ENGINEERING`
+&nbsp; → &nbsp;
+`☁️ DEPLOYMENT`
+&nbsp; → &nbsp;
+`🚀 IMPACT`
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="20%">
+
+### 🤖
+**AI / ML**
+
+Machine Learning  
+Deep Learning  
+Computer Vision
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧠
+**GEN AI**
+
+LLMs  
+RAG  
+AI Agents
+
+</td>
+
+<td align="center" width="20%">
+
+### 💻
+**SOFTWARE**
+
+Backend  
+APIs  
+System Design
+
+</td>
+
+<td align="center" width="20%">
+
+### ☁️
+**CLOUD & DATA**
+
+AWS  
+Snowflake  
+Data Engineering
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚛️
+**QUANTUM**
+
+Qiskit  
+Quantum Computing  
+PQC
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+> ### ⚡ **I don't just build models — I engineer systems around them.**
+
+</div>
 
 ---
-
 <!-- ========================================================= -->
 <!--                  PROOF OF WORK                             -->
 <!-- ========================================================= -->
