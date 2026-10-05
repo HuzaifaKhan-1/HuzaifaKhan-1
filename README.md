@@ -103,149 +103,137 @@ I enjoy working across the entire engineering lifecycle:
 <td align="center" width="20%">
 
 <!-- ========================================================= -->
-<!--                 ⚡ ENGINEERING DOMAINS                    -->
+<!--                 ENGINEERING DOMAINS                       -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# ⚡ Engineering Domains
+## ⚡ Engineering Domains
 
-### *Where I build • experiment • engineer*
+<i>Building at the intersection of intelligence, software, cloud & emerging technology.</i>
 
-</div>
+<br><br>
+
+<table>
+<tr>
+
+<!-- AI / ML -->
+<td align="center" width="20%">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/3d-ai.gif"
+     width="85">
 
 <br>
 
-<table align="center">
-<tr>
-
-<!-- ========================= AI / ML ========================= -->
-
-<td width="33%" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=900&color=58A6FF&center=true&vCenter=true&width=220&height=40&lines=%F0%9F%A4%96+AI+%2F+ML" />
-
-<sub>INTELLIGENCE</sub>
+<b>🤖 AI / ML</b>
 
 <br><br>
 
-🤖 **Machine Learning**  
-🧠 **Deep Learning**  
-👁️ **Computer Vision**
+<sub>
+Machine Learning<br>
+Deep Learning<br>
+Computer Vision
+</sub>
 
 <br><br>
 
-`Python` `PyTorch` `TensorFlow`
+<code>Python</code> <code>PyTorch</code>
 
 </td>
 
-<!-- ========================= GEN AI ========================= -->
+<!-- GEN AI -->
+<td align="center" width="20%">
 
-<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/ai.gif"
+     width="85">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=900&color=C084FC&center=true&vCenter=true&width=220&height=40&lines=%F0%9F%A7%A0+GEN+AI" />
+<br>
 
-<sub>GENERATIVE SYSTEMS</sub>
-
-<br><br>
-
-🧠 **LLM Applications**  
-🔎 **RAG**  
-🤖 **AI Agents**
+<b>🧠 GEN AI</b>
 
 <br><br>
 
-`LangChain` `LangGraph` `OpenAI`
+<sub>
+LLM Applications<br>
+RAG<br>
+AI Agents
+</sub>
+
+<br><br>
+
+<code>LangChain</code> <code>LangGraph</code>
 
 </td>
 
-<!-- ========================= SOFTWARE ========================= -->
+<!-- SOFTWARE -->
+<td align="center" width="20%">
 
-<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/laptop.gif"
+     width="85">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=900&color=38BDF8&center=true&vCenter=true&width=220&height=40&lines=%F0%9F%92%BB+SOFTWARE" />
+<br>
 
-<sub>ENGINEERING</sub>
-
-<br><br>
-
-⚙️ **Backend Systems**  
-🔗 **REST APIs**  
-🏗️ **System Design**
+<b>💻 SOFTWARE</b>
 
 <br><br>
 
-`.NET` `FastAPI` `Node.js`
+<sub>
+Backend Systems<br>
+REST APIs<br>
+System Design
+</sub>
+
+<br><br>
+
+<code>.NET</code> <code>FastAPI</code>
 
 </td>
 
-</tr>
+<!-- CLOUD -->
+<td align="center" width="20%">
 
-<tr>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cloud.gif"
+     width="85">
 
-<!-- ========================= CLOUD ========================= -->
+<br>
 
-<td width="33%" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=900&color=22D3EE&center=true&vCenter=true&width=220&height=40&lines=%E2%98%81%EF%B8%8F+CLOUD+%26+DATA" />
-
-<sub>DATA INFRASTRUCTURE</sub>
+<b>☁️ CLOUD & DATA</b>
 
 <br><br>
 
-☁️ **Cloud Engineering**  
-❄️ **Snowflake**  
-📊 **Data Engineering**
+<sub>
+Cloud Engineering<br>
+Snowflake<br>
+Data Engineering
+</sub>
 
 <br><br>
 
-`AWS` `S3` `dbt`
+<code>AWS</code> <code>Snowflake</code>
 
 </td>
 
-<!-- ========================= QUANTUM ========================= -->
+<!-- QUANTUM -->
+<td align="center" width="20%">
 
-<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/quantum.gif"
+     width="85">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=900&color=A78BFA&center=true&vCenter=true&width=220&height=40&lines=%E2%9A%9B%EF%B8%8F+QUANTUM" />
+<br>
 
-<sub>EMERGING TECHNOLOGY</sub>
-
-<br><br>
-
-⚛️ **Quantum Computing**  
-🔐 **Post-Quantum Security**  
-🧬 **Quantum Cryptography**
+<b>⚛️ QUANTUM</b>
 
 <br><br>
 
-`Qiskit` `PQC` `Cryptography`
+<sub>
+Quantum Computing<br>
+Post-Quantum Security<br>
+Cryptography
+</sub>
 
-</td>
+<br><br>
 
-<td width="33%" align="center">
-
-<h3>🚀</h3>
-
-### Engineering Philosophy
-
-**IDEA**
-
-↓  
-
-**ARCHITECTURE**
-
-↓
-
-**ENGINEERING**
-
-↓
-
-**DEPLOYMENT**
-
-↓
-
-**IMPACT**
+<code>Qiskit</code> <code>PQC</code>
 
 </td>
 
@@ -254,25 +242,11 @@ I enjoy working across the entire engineering lifecycle:
 
 <br>
 
-<!-- ========================================================= -->
-<!--                  ANIMATED CORE LOOP                        -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=850&height=45&lines=AI+%E2%86%92+INTELLIGENT+SYSTEMS;GEN+AI+%E2%86%92+AGENTS+%26+RAG;SOFTWARE+%E2%86%92+SCALABLE+BACKENDS;CLOUD+%26+DATA+%E2%86%92+PRODUCTION+PIPELINES;QUANTUM+%E2%86%92+NEXT-GENERATION+SECURITY" />
+### `AI` &nbsp;→&nbsp; `INTELLIGENT SYSTEMS` &nbsp;→&nbsp; `SCALABLE SOFTWARE`
 
 </div>
 
-<br>
-
-<div align="center">
-
-`AI` &nbsp; × &nbsp; `GEN AI` &nbsp; × &nbsp; `SOFTWARE` &nbsp; × &nbsp; `CLOUD` &nbsp; × &nbsp; `QUANTUM`
-
-</div>
-
----
+<!-- ========================================================= -->
 <!-- ========================================================= -->
 <!--                    🏆 PROOF OF WORK                       -->
 <!-- ========================================================= -->
