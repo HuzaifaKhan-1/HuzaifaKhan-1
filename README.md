@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./github-banner.png" width="100%">
+
+</div>
+
+<div align="center">
+
 # HUZAIFA KHAN
 
 ### AI Engineer • Software Engineer • Builder
