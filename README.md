@@ -160,11 +160,6 @@ PQC
 
 <br>
 
-<div align="center">
-
-> ### ⚡ **I don't just build models — I engineer systems around them.**
-
-</div>
 
 ---
 <!-- ========================================================= -->
