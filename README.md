@@ -102,151 +102,75 @@ I enjoy working across the entire engineering lifecycle:
 
 <td align="center" width="20%">
 
-<!-- ========================================================= -->
-<!--                 ENGINEERING DOMAINS                       -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 ## ⚡ Engineering Domains
 
-<i>Building at the intersection of intelligence, software, cloud & emerging technology.</i>
-
-<br><br>
-
 <table>
 <tr>
 
-<!-- AI / ML -->
 <td align="center" width="20%">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/3d-ai.gif"
-     width="85">
-
 <br>
-
 <b>🤖 AI / ML</b>
-
 <br><br>
-
-<sub>
-Machine Learning<br>
-Deep Learning<br>
-Computer Vision
-</sub>
-
+<sub>Machine Learning • Deep Learning • Computer Vision</sub>
 <br><br>
-
-<code>Python</code> <code>PyTorch</code>
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" height="32">
+<br><br>
 </td>
 
-<!-- GEN AI -->
 <td align="center" width="20%">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/ai.gif"
-     width="85">
-
 <br>
-
 <b>🧠 GEN AI</b>
-
 <br><br>
-
-<sub>
-LLM Applications<br>
-RAG<br>
-AI Agents
-</sub>
-
+<sub>LLM Applications • RAG • AI Agents</sub>
 <br><br>
-
-<code>LangChain</code> <code>LangGraph</code>
-
+<img src="https://skillicons.dev/icons?i=python" height="32">
+&nbsp;
+<code>LangChain</code>
+&nbsp;
+<code>LangGraph</code>
+<br><br>
 </td>
 
-<!-- SOFTWARE -->
 <td align="center" width="20%">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/laptop.gif"
-     width="85">
-
 <br>
-
 <b>💻 SOFTWARE</b>
-
 <br><br>
-
-<sub>
-Backend Systems<br>
-REST APIs<br>
-System Design
-</sub>
-
+<sub>Backend Systems • REST APIs • System Design</sub>
 <br><br>
-
-<code>.NET</code> <code>FastAPI</code>
-
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs" height="32">
+<br><br>
 </td>
 
-<!-- CLOUD -->
 <td align="center" width="20%">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cloud.gif"
-     width="85">
-
 <br>
-
 <b>☁️ CLOUD & DATA</b>
-
 <br><br>
-
-<sub>
-Cloud Engineering<br>
-Snowflake<br>
-Data Engineering
-</sub>
-
+<sub>Cloud Engineering • Snowflake • Data Engineering</sub>
 <br><br>
-
-<code>AWS</code> <code>Snowflake</code>
-
+<img src="https://skillicons.dev/icons?i=aws" height="32">
+&nbsp;
+<code>Snowflake</code>
+<br><br>
 </td>
 
-<!-- QUANTUM -->
 <td align="center" width="20%">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/quantum.gif"
-     width="85">
-
 <br>
-
 <b>⚛️ QUANTUM</b>
-
 <br><br>
-
-<sub>
-Quantum Computing<br>
-Post-Quantum Security<br>
-Cryptography
-</sub>
-
+<sub>Quantum Computing • PQC • Cryptography</sub>
 <br><br>
-
-<code>Qiskit</code> <code>PQC</code>
-
+<code>Qiskit</code>
+&nbsp;
+<code>PQC</code>
+<br><br>
 </td>
 
 </tr>
 </table>
 
-<br>
-
-### `AI` &nbsp;→&nbsp; `INTELLIGENT SYSTEMS` &nbsp;→&nbsp; `SCALABLE SOFTWARE`
-
 </div>
-
-<!-- ========================================================= -->
 <!-- ========================================================= -->
 <!--                    🏆 PROOF OF WORK                       -->
 <!-- ========================================================= -->
