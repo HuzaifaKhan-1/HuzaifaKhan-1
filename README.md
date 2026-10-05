@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://hkofficial.in">
+<a href="[https://hkofficial.in](https://huzaifa-khan-portfolio.onrender.com/)">
 <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
@@ -652,8 +652,8 @@ alt="Currently exploring">
 <img src="https://img.shields.io/badge/LINKEDIN-HUZAIFA_KHAN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://hkofficial.in">
-<img src="https://img.shields.io/badge/PORTFOLIO-HKOFFICIAL.IN-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
+<a href="[https://hkofficial.in](https://huzaifa-khan-portfolio.onrender.com/)">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="mailto:huzaifakamaalkhan@gmail.com">
