@@ -161,24 +161,265 @@ PQC
 <br>
 
 
----<td width="33%" align="center">
+---
 
-<img src="./assets/animations/gold.gif" width="55">
+<!-- ========================================================= -->
+<!--                    🏆 PROOF OF WORK                       -->
+<!-- ========================================================= -->
 
-### Quantum Arena 1.0
+<div align="center">
 
-**🏆 WINNER**
+# 🏆 Proof of Work
 
-National Quantum Computing  
-Hackathon
+### *Competitions • Hackathons • Engineering • Problem Solving*
 
 <br>
 
-<code>QUANTUM</code> &nbsp; <code>HACKATHON</code>
+Turning ideas into results — and results into measurable impact.
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<!-- ========================================================= -->
+<!-- 01 — QUANTUM ARENA                                       -->
+<!-- ========================================================= -->
+
+<td width="33%" align="center">
+
+<img src="./assets/animations/gold.gif" width="55">
+
+<h3>Quantum Arena 1.0</h3>
+
+<h4>🏆 WINNER</h4>
+
+<p>
+National Quantum Computing<br>
+Hackathon
+</p>
+
+<code>QUANTUM</code>
+&nbsp;
+<code>HACKATHON</code>
 
 </td>
 
+<!-- ========================================================= -->
+<!-- 02 — HERO IIC                                            -->
+<!-- ========================================================= -->
+
+<td width="33%" align="center">
+
+<img src="./assets/animations/silver.gif" width="55">
+
+<h3>Hero IIC 2K26</h3>
+
+<h4>🥈 RUNNER-UP</h4>
+
+<p>
+International<br>
+Hackathon
+</p>
+
+<code>INTERNATIONAL</code>
+&nbsp;
+<code>HACKATHON</code>
+
+</td>
+
+<!-- ========================================================= -->
+<!-- 03 — ISRO                                                -->
+<!-- ========================================================= -->
+
+<td width="33%" align="center">
+
+<img src="./assets/animations/rocket.gif" width="55">
+
+<h3>ISRO Antariksha</h3>
+
+<h4>🔥 TOP 10 NATIONWIDE</h4>
+
+<p>
+Bharatiya Antariksha<br>
+Hackathon 2025
+</p>
+
+<code>AI</code>
+&nbsp;
+<code>SPACE TECH</code>
+
+</td>
+
+</tr>
+
+<!-- ========================================================= -->
+<!-- SECOND ROW                                               -->
+<!-- ========================================================= -->
+
+<tr>
+
+<!-- ========================================================= -->
+<!-- 04 — META HACKER CUP                                     -->
+<!-- ========================================================= -->
+
+<td width="33%" align="center">
+
+<img src="./assets/animations/fire.gif" width="55">
+
+<h3>Meta Hacker Cup 2025</h3>
+
+<h4>🌎 GLOBAL RANK #141</h4>
+
+<p>
+Top <b>1.5%</b><br>
+Worldwide
+</p>
+
+<code>ALGORITHMS</code>
+&nbsp;
+<code>CP</code>
+
+</td>
+
+<!-- ========================================================= -->
+<!-- 05 — FLIPKART GRID                                       -->
+<!-- ========================================================= -->
+
+<td width="33%" align="center">
+
+<img src="./assets/animations/star.gif" width="55">
+
+<h3>Flipkart GRID 8.0</h3>
+
+<h4>⭐ SEMIFINALIST</h4>
+
+<p>
+Among <b>165,000+</b><br>
+Participants
+</p>
+
+<code>TECH</code>
+&nbsp;
+<code>COMPETITIVE PROGRAMMING</code>
+
+</td>
+
+<!-- ========================================================= -->
+<!-- 06 — CODECHEF                                            -->
+<!-- ========================================================= -->
+
+<td width="33%" align="center">
+
+<img src="./assets/animations/code.gif" width="55">
+
+<h3>CodeChef</h3>
+
+<h4>👨‍💻 3★ CODER</h4>
+
+<p>
+Global Rank <b>#94</b><br>
+CodeChef Starters 250
+</p>
+
+<code>ALGORITHMS</code>
+&nbsp;
+<code>CP</code>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+<br>
+
+<!-- ========================================================= -->
+<!-- COMPETITIVE PROGRAMMING HIGHLIGHT                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🧩 Competitive Programming
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center">
+
+<h2>250+</h2>
+
+<b>LeetCode Problems</b>
+
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+
+<h2>3★</h2>
+
+<b>CodeChef Rating</b>
+
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+
+<h2>#94</h2>
+
+<b>Global Rank</b>
+
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+
+<h2>#141</h2>
+
+<b>Meta Hacker Cup</b>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<code>PROBLEM SOLVING</code>
+&nbsp;
+<code>ALGORITHMS</code>
+&nbsp;
+<code>DATA STRUCTURES</code>
+&nbsp;
+<code>COMPETITIVE PROGRAMMING</code>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!-- CLOSING STATEMENT                                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
 ---
+
+### ⚡ BUILD • COMPETE • SOLVE • IMPACT
+
+*Consistently turning technical challenges into measurable outcomes.*
+
+</div>
+
+<!-- ========================================================= -->
 <!-- ========================================================= -->
 <!--                  FEATURED PROJECTS                          -->
 <!-- ========================================================= -->
