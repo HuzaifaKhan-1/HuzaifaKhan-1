@@ -105,13 +105,43 @@ Layered ASP.NET Core Web API + MVC product platform with JWT auth, search and fi
 <!-- ============================== 6 · TECH STACK ============================== -->
 ## 🧠 Tech Stack
 
-<div align="center">
+<h4 align="center">Coding Languages</h4>
 
-<img src="assets/svg/tech-orbit.svg" width="88%" alt="Atom-style tech orbit around an HK core: Python, PyTorch, TensorFlow, OpenCV, C++, TypeScript, .NET, FastAPI, Node.js, AWS, Azure and Docker">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,ts" height="48" alt="Python, C, C++, C#, Java, JavaScript, TypeScript">
+<br>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat&logoColor=white" alt="SQL">
+</p>
 
-<img src="assets/svg/tech-periodic.svg" width="100%" alt="Periodic table of technologies with logos: Python, C, C++, C#, Java, JavaScript, TypeScript, React, Node.js, FastAPI, PyTorch, scikit-learn, Keras, XGBoost, MLflow, Hugging Face, LangChain, LangGraph, RAG, AI Agents, Azure OpenAI, n8n, Snowflake, dbt, Kafka, Amazon S3, SQL, MongoDB, Docker, AWS, GitHub, GitHub Actions, Git, Power BI, Qiskit and post-quantum cryptography">
+<h4 align="center">AI &amp; Machine Learning</h4>
 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" height="48" alt="PyTorch, TensorFlow, scikit-learn, OpenCV">
+<br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white&logo=langchain" alt="LangChain"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white&logo=langgraph" alt="LangGraph"> <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat&logoColor=white" alt="RAG"> <img src="https://img.shields.io/badge/AI_Agents-2563EB?style=flat&logoColor=white" alt="AI Agents"> <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=flat&logoColor=white&logo=openai" alt="Azure OpenAI"> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&labelColor=FFD21E&logoColor=black&logo=huggingface" alt="Hugging Face"> <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logoColor=white&logo=keras" alt="Keras"> <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat&logoColor=white" alt="XGBoost"> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logoColor=white&logo=mlflow" alt="MLflow"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logoColor=white&logo=n8n" alt="n8n">
+</p>
+
+<h4 align="center">Full Stack</h4>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,dotnet,mongodb" height="48" alt="React, Node.js, FastAPI, .NET, MongoDB">
+<br>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logoColor=white&logo=dotnet" alt="ASP.NET Core"> <img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat&logoColor=white" alt="REST APIs">
+</p>
+
+<h4 align="center">Cloud, Data &amp; DevOps</h4>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git,github" height="48" alt="AWS, Azure, Docker, GitHub Actions, Git, GitHub">
+<br>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logoColor=white&logo=snowflake" alt="Snowflake"> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logoColor=white&logo=dbt" alt="dbt"> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logoColor=white&logo=apachekafka" alt="Apache Kafka"> <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logoColor=white&logo=amazons3" alt="Amazon S3"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&labelColor=F2C811&logoColor=black" alt="Power BI">
+</p>
+
+<h4 align="center">Quantum</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat&logoColor=white&logo=qiskit" alt="Qiskit"> <img src="https://img.shields.io/badge/Post--Quantum_Cryptography-0F766E?style=flat&logoColor=white" alt="Post-Quantum Cryptography">
+</p>
 
 <img src="assets/svg/divider.svg" width="100%" alt="">
 
