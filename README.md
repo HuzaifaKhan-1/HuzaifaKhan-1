@@ -3,7 +3,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/svg/hero-dark.svg">
-  <img src="assets/svg/hero-light.svg" width="100%" alt="Huzaifa Khan — AI Engineer, Software Engineer, Quantum Builder. A 3D point cloud of the face collapses into a portrait inside spinning rings, beside a rotating particle Bloch sphere.">
+  <img src="assets/svg/hero-light.svg" width="100%" alt="Huzaifa Khan — AI Engineer and Software Engineer. A green hacker portrait resolves into a photo, while a code editor types an agent that flows into a neural network.">
 </picture>
 
 <a href="https://www.linkedin.com/in/huzaifakamaalkhan/"><img src="assets/svg/btn-linkedin.svg" height="40" alt="LinkedIn"></a> <a href="https://huzaifa-khan-portfolio.onrender.com/"><img src="assets/svg/btn-googlechrome.svg" height="40" alt="Portfolio"></a> <a href="mailto:huzaifakamaalkhan@gmail.com"><img src="assets/svg/btn-gmail.svg" height="40" alt="Email"></a> <a href="https://leetcode.com/u/Huzaifa_Khan11/"><img src="assets/svg/btn-leetcode.svg" height="40" alt="LeetCode"></a>
