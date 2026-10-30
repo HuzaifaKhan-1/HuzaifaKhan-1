@@ -88,14 +88,14 @@ def render(data):
         '@media (prefers-reduced-motion: reduce){*{animation:none!important}}',
     ]
     out = [
-        '<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#06B6D4"/><stop offset=".5" stop-color="#2563EB"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>'
-        '<linearGradient id="sky" gradientUnits="userSpaceOnUse" x1="430" x2="976" y1="0" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#3B82F6"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>'
+        '<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22C55E"/><stop offset=".35" stop-color="#06B6D4"/><stop offset=".7" stop-color="#2563EB"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>'
+        '<linearGradient id="sky" gradientUnits="userSpaceOnUse" x1="430" x2="976" y1="0" y2="0"><stop offset="0" stop-color="#4ADE80"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>'
         '<clipPath id="bar"><rect x="24" y="196" width="952" height="10" rx="5"/></clipPath></defs>',
         f'<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="14" fill="#0B1020" stroke="url(#g)" stroke-opacity=".45"/>',
-        f'<text x="24" y="30" font-family="{MONO}" font-size="12" fill="#64748B">// git log --stats --since=1.year</text>',
+        f'<text x="24" y="30" font-family="{MONO}" font-size="12" fill="#4ADE80">// git log --stats --since=1.year</text>',
     ]
 
-    stats = [('contributions', f"{data['contributions']:,}", '#22D3EE'), ('longest streak', f"{data['streak']}d", '#60A5FA'),
+    stats = [('contributions', f"{data['contributions']:,}", '#4ADE80'), ('longest streak', f"{data['streak']}d", '#22D3EE'),
              ('repositories', f"{data['repos']:,}", '#A78BFA'), ('stars earned', f"{data['stars']:,}", '#F472B6')]
     for i, (label, value, col) in enumerate(stats):
         x, y = 24 + (i % 2) * 190, 90 + (i // 2) * 76
@@ -110,7 +110,7 @@ def render(data):
     for i, count in enumerate(weeks):
         h = max(2, count / top * tall)
         out.append(f'<rect class="b" style="animation-delay:{i * .025:.3f}s" x="{x0 + i * step:.1f}" y="{base - h:.1f}" width="{step - 2:.1f}" height="{h:.1f}" rx="1.5" fill="url(#sky)" opacity="{.45 + .55 * count / top:.2f}"/>')
-    out.append(f'<rect class="sw" x="{x0}" y="{base - tall}" width="2" height="{tall}" fill="#A5F3FC" opacity="0"/>')
+    out.append(f'<rect class="sw" x="{x0}" y="{base - tall}" width="2" height="{tall}" fill="#86EFAC" opacity="0"/>')
     out.append(f'<text x="976" y="30" text-anchor="end" font-family="{MONO}" font-size="12" fill="#64748B">52 weeks · peak {top}/week</text>')
 
     # languages: real byte share across public, non-fork repositories
@@ -129,7 +129,7 @@ def render(data):
     out.append(f'<g clip-path="url(#bar)"><g class="l" style="animation-delay:.3s">{"".join(bar)}</g></g>{"".join(legend)}')
 
     summary = (f"GitHub stats: {data['contributions']:,} contributions in the past year, longest streak {data['streak']} days, "
-               f"{data['repos']} public repositories, {data['stars']} stars earned")
+               f"{data['repos']} public repositories, stars earned: {data['stars']}")
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="{escape(summary)}" fill="none">'
             f'<title>{escape(summary)}</title><style>{"".join(css)}</style>{"".join(out)}</svg>')
 

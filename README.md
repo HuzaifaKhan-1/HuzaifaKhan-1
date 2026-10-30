@@ -107,7 +107,7 @@ Layered ASP.NET Core Web API + MVC product platform with JWT auth, search and fi
 
 <img src="assets/svg/tech-orbit.svg" width="88%" alt="Atom-style tech orbit around an HK core: Python, PyTorch, TensorFlow, OpenCV, C++, TypeScript, .NET, FastAPI, Node.js, AWS, Azure and Docker">
 
-<img src="assets/svg/tech-periodic.svg" width="100%" alt="Periodic table of technologies with logos: C#, Java, JavaScript, React, scikit-learn, Keras, XGBoost, MLflow, Hugging Face, LangChain, LangGraph, RAG, AI Agents, Azure OpenAI, n8n, Snowflake, dbt, Kafka, Amazon S3, SQL, MongoDB, GitHub, GitHub Actions, Git, Power BI, Qiskit and post-quantum cryptography">
+<img src="assets/svg/tech-periodic.svg" width="100%" alt="Periodic table of technologies with logos: Python, C, C++, C#, Java, JavaScript, TypeScript, React, Node.js, FastAPI, PyTorch, scikit-learn, Keras, XGBoost, MLflow, Hugging Face, LangChain, LangGraph, RAG, AI Agents, Azure OpenAI, n8n, Snowflake, dbt, Kafka, Amazon S3, SQL, MongoDB, Docker, AWS, GitHub, GitHub Actions, Git, Power BI, Qiskit and post-quantum cryptography">
 
 </div>
 
