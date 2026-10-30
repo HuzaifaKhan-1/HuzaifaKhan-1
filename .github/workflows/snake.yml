@@ -1,4 +1,4 @@
-name: Generate snake
+name: Generate snake and stats
 
 on:
   schedule:
@@ -14,12 +14,20 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake-light.svg?color_snake=#7C3AED&color_dots=#ebedf0,#a5f3fc,#22d3ee,#2563eb,#7c3aed
             dist/snake-dark.svg?color_snake=#22D3EE&color_dots=#161b22,#0e4f63,#0891b2,#2563eb,#7c3aed
+
+      - name: Generate stats card
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/stats_card.py ${{ github.repository_owner }} dist/stats.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

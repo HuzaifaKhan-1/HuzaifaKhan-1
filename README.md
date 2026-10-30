@@ -118,8 +118,7 @@ Layered ASP.NET Core Web API + MVC product platform with JWT auth, search and fi
 
 <div align="center">
 
-<!-- The public github-readme-stats instance is shared and can be rate-limited or paused (it returned 503 DEPLOYMENT_PAUSED on 2026-10-30). TODO: self-host on Vercel and swap the host below. -->
-<img src="https://github-readme-stats.vercel.app/api?username=HuzaifaKhan-1&show_icons=true&hide_border=true&bg_color=00000000&title_color=06B6D4&icon_color=7C3AED&text_color=8B949E&ring_color=2563EB" width="460" alt="Huzaifa Khan's GitHub stats">
+<img src="https://raw.githubusercontent.com/HuzaifaKhan-1/HuzaifaKhan-1/output/stats.svg" width="100%" alt="GitHub stats: a 52-week contribution skyline, longest streak, repositories, stars and top languages, regenerated daily">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuzaifaKhan-1/HuzaifaKhan-1/output/snake-dark.svg">
