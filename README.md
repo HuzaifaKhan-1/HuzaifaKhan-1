@@ -1,685 +1,139 @@
-<!-- ========================================================= -->
-<!--                        HERO                                -->
-<!-- ========================================================= -->
-
+<!-- ============================== 1 · HERO ============================== -->
 <div align="center">
 
-<img src="./github-banner2.png"
-     width="100%"
-     alt="Huzaifa Khan — AI Engineer • Software Engineer • Builder">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/svg/hero-dark.svg">
+  <img src="assets/svg/hero-light.svg" width="100%" alt="Huzaifa Khan — AI Engineer, Software Engineer, Quantum Builder. A 3D point cloud of the face collapses into a portrait inside spinning rings, beside a rotating particle Bloch sphere.">
+</picture>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=AI+ENGINEER+%7C+SOFTWARE+ENGINEER;GENERATIVE+AI+%7C+AI+AGENTS;CLOUD+%26+DATA+ENGINEERING;QUANTUM+%26+POST-QUANTUM+SECURITY"
-     alt="Typing animation">
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/huzaifakamaalkhan/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="[https://hkofficial.in](https://huzaifa-khan-portfolio.onrender.com/)">
-<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<a href="https://github.com/HuzaifaKhan-1">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=HuzaifaKhan-1&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS">
+<a href="https://www.linkedin.com/in/huzaifakamaalkhan/"><img src="assets/svg/btn-linkedin.svg" height="40" alt="LinkedIn"></a> <a href="https://huzaifa-khan-portfolio.onrender.com/"><img src="assets/svg/btn-googlechrome.svg" height="40" alt="Portfolio"></a> <a href="mailto:huzaifakamaalkhan@gmail.com"><img src="assets/svg/btn-gmail.svg" height="40" alt="Email"></a> <a href="https://leetcode.com/u/Huzaifa_Khan11/"><img src="assets/svg/btn-leetcode.svg" height="40" alt="LeetCode"></a>
 
 </div>
 
----
+<img src="assets/svg/divider.svg" width="100%" alt="">
 
-<!-- ========================================================= -->
-<!--                 CORE IDENTITY                              -->
-<!-- ========================================================= -->
-
+<!-- ============================== 2 · WHOAMI ============================== -->
 <div align="center">
 
-# ⚡ AI × SOFTWARE × CLOUD × QUANTUM
-
-### Building intelligent systems that move from **idea → architecture → implementation → impact.**
-
-<br>
-
-`🤖 Artificial Intelligence`
-&nbsp;&nbsp;×&nbsp;&nbsp;
-`💻 Software Engineering`
-&nbsp;&nbsp;×&nbsp;&nbsp;
-`☁️ Cloud & Data`
-&nbsp;&nbsp;×&nbsp;&nbsp;
-`⚛️ Quantum`
+<img src="assets/svg/terminal.svg" width="760" alt="Terminal session — whoami: Huzaifa Khan, AI and Software Engineer; experience: Software Engineering Intern at Accenture; focus: GenAI, AI Agents, Cloud and Data, Post-Quantum Security; status: open to opportunities">
 
 </div>
 
----
-<!-- ========================================================= -->
-<!--                      ABOUT ME                              -->
-<!-- ========================================================= -->
+AI & Software Engineer and final-year Computer Engineering student (GPA 10.0/10) who builds GenAI agents, computer-vision systems and quantum-secure software, most recently shipping ASP.NET Core + Azure AI services at **Accenture**.
+**Open to** AI Engineering and Software Engineering roles and internships. Reach me at [huzaifakamaalkhan@gmail.com](mailto:huzaifakamaalkhan@gmail.com).
 
-<div align="center">
+<img src="assets/svg/divider.svg" width="100%" alt="">
 
-## 👋 Hey, I'm Huzaifa
+<!-- ============================== 3 · EXPERIENCE ============================== -->
+## 💼 Experience
 
-### **Computer Engineer • AI Engineer • Software Engineer • Builder**
+<img src="assets/svg/experience.svg" width="100%" alt="Experience timeline: AI Intern at Microsoft and SAP via AICTE (Aug 2024 – Mar 2025), AI Research Intern at IoT Club JSPM JSCOE (Jan – Feb 2026), Software Engineering Intern at Accenture (May – Jul 2026)">
 
-<br>
+| Role | Impact |
+|---|---|
+| **Accenture**, Pune<br>Software Engineering Intern · <sub>May – Jul 2026</sub> | Built enterprise apps with ASP.NET Core, C# and Azure AI; integrated Azure OpenAI-powered backend APIs with CI/CD |
+| **IoT Club, JSPM JSCOE**<br>AI Research Intern · <sub>Jan – Feb 2026</sub> | Hybrid deep-learning models (VGG16 + ResNet50, CNN-LDA) reaching up to **97.94%** accuracy |
+| **Microsoft & SAP** via AICTE / Adverk Technologies<br>AI Intern · <sub>Aug 2024 – Mar 2025</sub> | Built an AI Fitness Tracker with TensorFlow and Streamlit at **98%** accuracy |
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=40&lines=Building+Intelligent+Systems;Engineering+Scalable+Software;Connecting+AI%2C+Cloud+%26+Data;Exploring+Quantum+%26+Post-Quantum+Security"
-alt="What I build">
+🎓 **B.E. Computer Engineering**, JSPM's Jayawantrao Sawant College of Engineering, Pune · 2023 – 2027 · GPA **10.0 / 10**
 
-</div>
+<img src="assets/svg/divider.svg" width="100%" alt="">
 
-<br>
+<!-- ============================== 4 · PROOF OF WORK ============================== -->
+## 🏆 Proof of Work
 
-I'm passionate about turning **ambitious ideas into intelligent, scalable and real-world technology**.
+<img src="assets/svg/achievements.svg" width="100%" alt="Achievements: Quantum Arena 1.0 winner (national quantum computing hackathon); Hero IIC 2K26 1st runner-up (international hackathon); ISRO Bharatiya Antariksh Hackathon 2025 top 10 nationwide; Meta Hacker Cup 2025 global rank 141, top 1.5%; Flipkart GRID 8.0 semifinalist among 165,000+ participants; CodeChef 3 star with global rank 94 in Starters 250 and 250+ LeetCode problems solved">
 
-I enjoy working across the entire engineering lifecycle:
+<sub>Proof → [Quantum Arena repo](https://github.com/HuzaifaKhan-1/Quantum-Arena-1.0---Team-NeuroNix) · [LeetCode](https://leetcode.com/u/Huzaifa_Khan11/) · [CodeChef](https://www.codechef.com/users/huzaifakhan11) <!-- TODO: add certificate / LinkedIn post links for Hero IIC, ISRO BAH, Meta Hacker Cup and Flipkart GRID --></sub>
 
-<div align="center">
+<img src="assets/svg/divider.svg" width="100%" alt="">
 
-`💡 IDEA`
-&nbsp; → &nbsp;
-`🏗️ ARCHITECTURE`
-&nbsp; → &nbsp;
-`⚙️ ENGINEERING`
-&nbsp; → &nbsp;
-`☁️ DEPLOYMENT`
-&nbsp; → &nbsp;
-`🚀 IMPACT`
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td align="center" width="20%">
-
-<div align="center">
-
-## ⚡ Engineering Domains
+<!-- ============================== 5 · FEATURED PROJECTS ============================== -->
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
-<td align="center" width="20%">
-<br>
-<b>🤖 AI / ML</b>
-<br><br>
-<sub>Machine Learning • Deep Learning • Computer Vision</sub>
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" height="32">
-<br><br>
-</td>
-
-<td align="center" width="20%">
-<br>
-<b>🧠 GEN AI</b>
-<br><br>
-<sub>LLM Applications • RAG • AI Agents</sub>
-<br><br>
-<img src="https://skillicons.dev/icons?i=python" height="32">
-&nbsp;
-<code>LangChain</code>
-&nbsp;
-<code>LangGraph</code>
-<br><br>
-</td>
-
-<td align="center" width="20%">
-<br>
-<b>💻 SOFTWARE</b>
-<br><br>
-<sub>Backend Systems • REST APIs • System Design</sub>
-<br><br>
-<img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs" height="32">
-<br><br>
-</td>
-
-<td align="center" width="20%">
-<br>
-<b>☁️ CLOUD & DATA</b>
-<br><br>
-<sub>Cloud Engineering • Snowflake • Data Engineering</sub>
-<br><br>
-<img src="https://skillicons.dev/icons?i=aws" height="32">
-&nbsp;
-<code>Snowflake</code>
-<br><br>
-</td>
-
-<td align="center" width="20%">
-<br>
-<b>⚛️ QUANTUM</b>
-<br><br>
-<sub>Quantum Computing • PQC • Cryptography</sub>
-<br><br>
-<code>Qiskit</code>
-&nbsp;
-<code>PQC</code>
-<br><br>
-</td>
-
-</tr>
-</table>
-
-</div>
-<!-- ========================================================= -->
-<!--                    🏆 PROOF OF WORK                       -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 🏆 Proof of Work
-
-### *Competitions • Hackathons • Engineering • Problem Solving*
-
-<br>
-
-Turning ideas into results — and results into measurable impact.
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-
-<!-- ========================================================= -->
-<!-- 01 — QUANTUM ARENA                                       -->
-<!-- ========================================================= -->
-
-<td width="33%" align="center">
-
-<img src="./assets/animations/gold.gif" width="55">
-
-<h3>Quantum Arena 1.0</h3>
-
-<h4>🏆 WINNER</h4>
-
-<p>
-National Quantum Computing<br>
-Hackathon
-</p>
-
-<code>QUANTUM</code>
-&nbsp;
-<code>HACKATHON</code>
-
-</td>
-
-<!-- ========================================================= -->
-<!-- 02 — HERO IIC                                            -->
-<!-- ========================================================= -->
-
-<td width="33%" align="center">
-
-<img src="./assets/animations/silver.gif" width="55">
-
-<h3>Hero IIC 2K26</h3>
-
-<h4>🥈 RUNNER-UP</h4>
-
-<p>
-International<br>
-Hackathon
-</p>
-
-<code>INTERNATIONAL</code>
-&nbsp;
-<code>HACKATHON</code>
-
-</td>
-
-<!-- ========================================================= -->
-<!-- 03 — ISRO                                                -->
-<!-- ========================================================= -->
-
-<td width="33%" align="center">
-
-<img src="./assets/animations/rocket.gif" width="55">
-
-<h3>ISRO Antariksha</h3>
-
-<h4>🔥 TOP 10 NATIONWIDE</h4>
-
-<p>
-Bharatiya Antariksha<br>
-Hackathon 2025
-</p>
-
-<code>AI</code>
-&nbsp;
-<code>SPACE TECH</code>
-
-</td>
-
-</tr>
-
-<!-- ========================================================= -->
-<!-- SECOND ROW                                               -->
-<!-- ========================================================= -->
-
-<tr>
-
-<!-- ========================================================= -->
-<!-- 04 — META HACKER CUP                                     -->
-<!-- ========================================================= -->
-
-<td width="33%" align="center">
-
-<img src="./assets/animations/fire.gif" width="55">
-
-<h3>Meta Hacker Cup 2025</h3>
-
-<h4>🌎 GLOBAL RANK #141</h4>
-
-<p>
-Top <b>1.5%</b><br>
-Worldwide
-</p>
-
-<code>ALGORITHMS</code>
-&nbsp;
-<code>CP</code>
-
-</td>
-
-<!-- ========================================================= -->
-<!-- 05 — FLIPKART GRID                                       -->
-<!-- ========================================================= -->
-
-<td width="33%" align="center">
-
-<img src="./assets/animations/star.gif" width="55">
-
-<h3>Flipkart GRID 8.0</h3>
-
-<h4>⭐ SEMIFINALIST</h4>
-
-<p>
-Among <b>165,000+</b><br>
-Participants
-</p>
-
-<code>TECH</code>
-&nbsp;
-<code>COMPETITIVE PROGRAMMING</code>
-
-</td>
-
-<!-- ========================================================= -->
-<!-- 06 — CODECHEF                                            -->
-<!-- ========================================================= -->
-
-<td width="33%" align="center">
-
-<img src="./assets/animations/code.gif" width="55">
-
-<h3>CodeChef</h3>
-
-<h4>👨‍💻 3★ CODER</h4>
-
-<p>
-Global Rank <b>#94</b><br>
-CodeChef Starters 250
-</p>
-
-<code>ALGORITHMS</code>
-&nbsp;
-<code>CP</code>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-<br>
-
-<!-- ========================================================= -->
-<!-- COMPETITIVE PROGRAMMING HIGHLIGHT                         -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🧩 Competitive Programming
-
-<br>
-
-<table align="center">
-<tr>
-
-<td align="center">
-
-<h2>250+</h2>
-
-<b>LeetCode Problems</b>
-
-</td>
-
-<td width="40"></td>
-
-<td align="center">
-
-<h2>3★</h2>
-
-<b>CodeChef Rating</b>
-
-</td>
-
-<td width="40"></td>
-
-<td align="center">
-
-<h2>#94</h2>
-
-<b>Global Rank</b>
-
-</td>
-
-<td width="40"></td>
-
-<td align="center">
-
-<h2>#141</h2>
-
-<b>Meta Hacker Cup</b>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<code>PROBLEM SOLVING</code>
-&nbsp;
-<code>ALGORITHMS</code>
-&nbsp;
-<code>DATA STRUCTURES</code>
-&nbsp;
-<code>COMPETITIVE PROGRAMMING</code>
-
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!-- ========================================================= -->
-<!--                  FEATURED PROJECTS                          -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🚀 Featured Work
-
-</div>
-
-<table>
-<tr>
-
 <td width="50%" valign="top">
+<img src="assets/svg/proj-foreguard.svg" width="100%" alt="Fire spreading cell by cell across a grid while an AI scan line sweeps it">
 
 ### 🔥 ForeGuard AI
+Computer-vision models on satellite imagery (97% accuracy) that predict and simulate forest fires and send real-time SMS/call alerts.
 
-**AI-Based Forest Fire Spread Prediction & Simulation**
+`Python` `TensorFlow` `OpenCV` `FastAPI`
 
-`U-Net` `LSTM` `GNN` `Cellular Automata`
-
-🏆 **ISRO Hackathon — Top 10 Nationwide**
-
-AI-driven modeling and prediction of forest-fire propagation.
-
+[Repo →](https://github.com/HuzaifaKhan-1/AI-Based-Forest-Fire-Defense-System)
 </td>
-
 <td width="50%" valign="top">
+<img src="assets/svg/proj-qumail.svg" width="100%" alt="Qubits stream into an envelope that is sealed by a quantum padlock">
 
 ### ⚛️ QuMail
+Full-stack email client using post-quantum cryptography (Qiskit) for end-to-end encrypted communication.
 
-**Quantum-Secure Email Client**
+`Qiskit` `React` `Node.js` `TypeScript`
 
-`Qiskit` `Python` `PQC` `Cryptography`
-
-Exploring quantum digital signatures and next-generation secure communication.
-
+[Repo →](https://github.com/HuzaifaKhan-1/QuMail---Quantum-Secure-Email-Client-Application) &nbsp; <a href="https://qumail.hkofficial.in/"><img src="https://img.shields.io/badge/Live_Demo-06B6D4?style=flat-square" alt="QuMail live demo"></a>
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
+<img src="assets/svg/proj-warehouse.svg" width="100%" alt="Boxes travel along a conveyor belt under an AI freshness scanner">
 
 ### 📦 Smart Warehouse
+AI spoilage prediction, shelf-life estimation and warehouse optimisation that cut post-harvest losses by 30%.
 
-**AI-Powered Supply Chain Optimization**
+`GenAI` `AI Agents` `FastAPI` `MongoDB`
 
-`GenAI` `AI Agents` `FastAPI` `Node.js` `MongoDB`
-
-Intelligent recommendations designed for real-world logistics and supply-chain decisions.
-
+[Repo →](https://github.com/HuzaifaKhan-1/Smart-Warehouse---Nari-Shakti)
 </td>
-
 <td width="50%" valign="top">
+<img src="assets/svg/proj-producthub.svg" width="100%" alt="A .NET badge next to product cards with soft sparkles">
 
 ### 🛒 ProductHub
+Layered ASP.NET Core Web API + MVC product platform with JWT auth, search and filters, dashboard analytics and export.
 
-**AI-Powered Enterprise Product Platform**
+`ASP.NET Core` `C#` `Web API` `JWT`
 
-`.NET` `ASP.NET Core` `Web API` `MVC` `Azure OpenAI`
-
-Combining enterprise software engineering with Generative AI.
-
+[Repo →](https://github.com/HuzaifaKhan-1/ProductHub)
 </td>
-
 </tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-### 📊 E-Commerce Data Engineering Platform
-
-`Amazon S3` → `Snowflake` → `dbt` → `SQL` → `Analytics`
-
-Modern cloud-native data pipeline built around real-world e-commerce data.
-
-</td>
-
-</tr>
-
 </table>
 
----
+<img src="assets/svg/divider.svg" width="100%" alt="">
 
-<!-- ========================================================= -->
-<!--                    TECHNOLOGY                              -->
-<!-- ========================================================= -->
+<!-- ============================== 6 · TECH STACK ============================== -->
+## 🧠 Tech Stack
 
 <div align="center">
 
-## 🧠 Technology Stack
+<img src="assets/svg/tech-orbit.svg" width="88%" alt="Atom-style tech orbit around an HK core: Python, PyTorch, TensorFlow, OpenCV, C++, TypeScript, .NET, FastAPI, Node.js, AWS, Azure and Docker">
 
-### 🤖 AI / Machine Learning
+<img src="assets/svg/tech-periodic.svg" width="100%" alt="Periodic table of technologies with logos: C#, Java, JavaScript, React, scikit-learn, Keras, XGBoost, MLflow, Hugging Face, LangChain, LangGraph, RAG, AI Agents, Azure OpenAI, n8n, Snowflake, dbt, Kafka, Amazon S3, SQL, MongoDB, GitHub, GitHub Actions, Git, Power BI, Qiskit and post-quantum cryptography">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv">
+</div>
 
-<br><br>
+<img src="assets/svg/divider.svg" width="100%" alt="">
 
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `Transfer Learning`
+<!-- ============================== 7 · ACTIVITY ============================== -->
+## 📈 Activity
 
-<br><br>
+<div align="center">
 
-### 🧠 Generative AI
+<!-- The public github-readme-stats instance is shared and can be rate-limited or paused (it returned 503 DEPLOYMENT_PAUSED on 2026-10-30). TODO: self-host on Vercel and swap the host below. -->
+<img src="https://github-readme-stats.vercel.app/api?username=HuzaifaKhan-1&show_icons=true&hide_border=true&bg_color=00000000&title_color=06B6D4&icon_color=7C3AED&text_color=8B949E&ring_color=2563EB" width="460" alt="Huzaifa Khan's GitHub stats">
 
-`LangChain` · `LangGraph` · `RAG` · `AI Agents` · `OpenAI` · `Gemini`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuzaifaKhan-1/HuzaifaKhan-1/output/snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/HuzaifaKhan-1/HuzaifaKhan-1/output/snake-light.svg" width="100%">
+</picture>
 
-<br><br>
+<img src="assets/svg/footer.svg" width="100%" alt="">
 
-### 💻 Software Engineering
+</div>
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,dotnet,nodejs,fastapi">
-
-<br><br>
-
-`REST APIs` · `Backend Development` · `MVC` · `Entity Framework` · `System Design`
-
-<br><br>
-
-### ☁️ Cloud & Data
-
-<img src="https://skillicons.dev/icons?i=aws,azure,mongodb">
-
+<details>
+<summary>🐈 <code>./schrodinger.sh</code></summary>
 <br>
-
-`Amazon S3` · `Snowflake` · `dbt` · `SQL` · `Data Warehousing` · `Data Pipelines`
-
-<br><br>
-
-### 🚀 DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions">
-
-<br><br>
-
-`CI/CD` · `Docker` · `Cloud Deployment` · `Version Control`
-
-<br><br>
-
-### ⚛️ Quantum & Security
-
-`Qiskit` · `Quantum Computing` · `Quantum Cryptography` · `Post-Quantum Cryptography`
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                COMPETITIVE PROGRAMMING                     -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-## 🧩 Competitive Programming
-
-<br>
-
-<img src="https://img.shields.io/badge/CODECHEF-3★-B8860B?style=for-the-badge&logo=codechef&logoColor=white">
-
-<img src="https://img.shields.io/badge/LEETCODE-250%2B_PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-
-<img src="https://img.shields.io/badge/META_HACKER_CUP-GLOBAL_#141-1877F2?style=for-the-badge">
-
-<br><br>
-
-<a href="https://leetcode.com/u/Huzaifa_Khan11/">
-<img src="https://img.shields.io/badge/VIEW_LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-
+<img src="assets/svg/schrodinger.svg" width="560" alt="A terminal runs schrodinger.sh: the box opens, an ASCII cat flickers between alive and asleep, then collapses to alive — thanks for scrolling this far">
 </div>
-
----
-
-<!-- ========================================================= -->
-<!--                   GITHUB ANALYTICS                         -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<br>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=HuzaifaKhan-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaKhan-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com?user=HuzaifaKhan-1&theme=tokyonight&hide_border=true"
-alt="GitHub Streak">
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                CURRENTLY EXPLORING                         -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🔭 Currently Exploring
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=700&color=8B5CF6&center=true&vCenter=true&width=800&height=40&lines=Generative+AI+%E2%86%92+AI+Agents;AI+Agents+%E2%86%92+Scalable+Applications;Snowflake+%2B+dbt+%E2%86%92+Data+Engineering;Cloud-Native+AI+Systems;Quantum+%26+Post-Quantum+Security"
-alt="Currently exploring">
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                    ENGINEERING MINDSET                     -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## ⚡ Engineering Mindset
-
-### **Concept → Architecture → Code → Deployment → Impact**
-
-<br>
-
-**Build systems. Solve problems. Learn continuously.**
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                       CONNECT                              -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/huzaifakamaalkhan/">
-<img src="https://img.shields.io/badge/LINKEDIN-HUZAIFA_KHAN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="[https://hkofficial.in](https://huzaifa-khan-portfolio.onrender.com/)">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<a href="mailto:huzaifakamaalkhan@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/HuzaifaKhan-1">
-<img src="https://img.shields.io/badge/GITHUB-HUZAIFAKHAN--1-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-### 🚀 BUILD. BREAK. LEARN. REPEAT.
-
-*Turning ideas into intelligent systems and real-world software.*
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=110&section=footer">
-
-</div>
+</details>
