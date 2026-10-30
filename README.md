@@ -8,6 +8,8 @@
 
 <a href="https://www.linkedin.com/in/huzaifakamaalkhan/"><img src="assets/svg/btn-linkedin.svg" height="40" alt="LinkedIn"></a> <a href="https://huzaifa-khan-portfolio.onrender.com/"><img src="assets/svg/btn-googlechrome.svg" height="40" alt="Portfolio"></a> <a href="mailto:huzaifakamaalkhan@gmail.com"><img src="assets/svg/btn-gmail.svg" height="40" alt="Email"></a> <a href="https://leetcode.com/u/Huzaifa_Khan11/"><img src="assets/svg/btn-leetcode.svg" height="40" alt="LeetCode"></a>
 
+<img src="assets/svg/views-left.svg" height="28" align="middle" alt="Profile views:"><img src="https://api.visitorbadge.io/api/visitors?path=huzaifakhan-1-profile-readme&label=&labelColor=%23052E16&countColor=%23052E16&style=flat-square" align="middle" alt="live view count"><img src="assets/svg/views-right.svg" height="28" align="middle" alt="">
+
 </div>
 
 <img src="assets/svg/divider.svg" width="100%" alt="">
