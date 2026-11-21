@@ -2,34 +2,34 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/svg/hero-dark.svg">
-  <img src="assets/svg/hero-light.svg" width="100%" alt="Huzaifa Khan — AI Engineer and Software Engineer. A green hacker portrait resolves into a photo, while a code editor types an agent that flows into a neural network.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/svg/hero-dark.svg?v=02d46b4a">
+  <img src="assets/svg/hero-light.svg?v=b8502b82" width="100%" alt="Huzaifa Khan — AI Engineer and Software Engineer. A green hacker portrait resolves into a photo, while a code editor types an agent that flows into a neural network.">
 </picture>
 
-<a href="https://www.linkedin.com/in/huzaifakamaalkhan/"><img src="assets/svg/btn-linkedin.svg" height="40" alt="LinkedIn"></a> <a href="https://huzaifa-khan-portfolio.onrender.com/"><img src="assets/svg/btn-googlechrome.svg" height="40" alt="Portfolio"></a> <a href="mailto:huzaifakamaalkhan@gmail.com"><img src="assets/svg/btn-gmail.svg" height="40" alt="Email"></a> <a href="https://leetcode.com/u/Huzaifa_Khan11/"><img src="assets/svg/btn-leetcode.svg" height="40" alt="LeetCode"></a>
+<a href="https://www.linkedin.com/in/huzaifakamaalkhan/"><img src="assets/svg/btn-linkedin.svg?v=3836e489" height="40" alt="LinkedIn"></a> <a href="https://huzaifa-khan-portfolio.onrender.com/"><img src="assets/svg/btn-googlechrome.svg?v=101e5657" height="40" alt="Portfolio"></a> <a href="mailto:huzaifakamaalkhan@gmail.com"><img src="assets/svg/btn-gmail.svg?v=eefb3be9" height="40" alt="Email"></a> <a href="https://leetcode.com/u/Huzaifa_Khan11/"><img src="assets/svg/btn-leetcode.svg?v=a6c98269" height="40" alt="LeetCode"></a>
 
-<img src="assets/svg/views-left.svg" height="28" align="middle" alt="Profile views:"><img src="https://api.visitorbadge.io/api/visitors?path=huzaifakhan-1-profile-readme&label=&labelColor=%23052E16&countColor=%23052E16&style=flat-square" align="middle" alt="live view count"><img src="assets/svg/views-right.svg" height="28" align="middle" alt="">
+<img src="assets/svg/views-left.svg?v=6c49476a" height="28" align="middle" alt="Profile views:"><img src="https://api.visitorbadge.io/api/visitors?path=huzaifakhan-1-profile-readme&label=&labelColor=%23052E16&countColor=%23052E16&style=flat-square" align="middle" alt="live view count"><img src="assets/svg/views-right.svg?v=e8c53504" height="28" align="middle" alt="">
 
 </div>
 
-<img src="assets/svg/divider.svg" width="100%" alt="">
+<img src="assets/svg/divider.svg?v=de5de555" width="100%" alt="">
 
 <!-- ============================== 2 · WHOAMI ============================== -->
 <div align="center">
 
-<img src="assets/svg/terminal.svg" width="760" alt="Terminal session — whoami: Huzaifa Khan, AI and Software Engineer; experience: Software Engineering Intern at Accenture; focus: GenAI, AI Agents, Cloud and Data, Post-Quantum Security; status: open to opportunities">
+<img src="assets/svg/terminal.svg?v=25d9bb55" width="760" alt="Terminal session — whoami: Huzaifa Khan, AI and Software Engineer; experience: Software Engineering Intern at Accenture; focus: GenAI, AI Agents, Cloud and Data, Post-Quantum Security; status: open to opportunities">
 
 </div>
 
 AI & Software Engineer and final-year Computer Engineering student (GPA 10.0/10) who builds GenAI agents, computer-vision systems and quantum-secure software, most recently shipping ASP.NET Core + Azure AI services at **Accenture**.
 **Open to** AI Engineering and Software Engineering roles and internships. Reach me at [huzaifakamaalkhan@gmail.com](mailto:huzaifakamaalkhan@gmail.com).
 
-<img src="assets/svg/divider.svg" width="100%" alt="">
+<img src="assets/svg/divider.svg?v=de5de555" width="100%" alt="">
 
 <!-- ============================== 3 · EXPERIENCE ============================== -->
 ## 💼 Experience
 
-<img src="assets/svg/experience.svg" width="100%" alt="Experience timeline: AI Intern at Microsoft and SAP via AICTE (Aug 2024 – Mar 2025), AI Research Intern at IoT Club JSPM JSCOE (Jan – Feb 2026), Software Engineering Intern at Accenture (May – Jul 2026)">
+<img src="assets/svg/experience.svg?v=b7b58e07" width="100%" alt="Experience timeline: AI Intern at Microsoft and SAP via AICTE (Aug 2024 – Mar 2025), AI Research Intern at IoT Club JSPM JSCOE (Jan – Feb 2026), Software Engineering Intern at Accenture (May – Jul 2026)">
 
 | Role | Impact |
 |---|---|
@@ -39,16 +39,16 @@ AI & Software Engineer and final-year Computer Engineering student (GPA 10.0/10)
 
 🎓 **B.E. Computer Engineering**, JSPM's Jayawantrao Sawant College of Engineering, Pune · 2023 – 2027 · GPA **10.0 / 10**
 
-<img src="assets/svg/divider.svg" width="100%" alt="">
+<img src="assets/svg/divider.svg?v=de5de555" width="100%" alt="">
 
 <!-- ============================== 4 · PROOF OF WORK ============================== -->
 ## 🏆 Proof of Work
 
-<img src="assets/svg/achievements.svg" width="100%" alt="Achievements: HackCellence 2026 by Booking Holdings with HackerEarth, top 80 national finalist out of 40,000+ participants; Quantum Arena 1.0 winner (national quantum computing hackathon); Hero IIC 2K26 1st runner-up (international hackathon); ISRO Bharatiya Antariksh Hackathon 2025 top 10 nationwide; Meta Hacker Cup 2025 global rank 141, top 1.5%; Flipkart GRID 8.0 semifinalist among 165,000+ participants; CodeChef 3 star with global rank 94 in Starters 250 and 250+ LeetCode problems solved">
+<img src="assets/svg/achievements.svg?v=81864d79" width="100%" alt="Achievements: HackCellence 2026 by Booking Holdings with HackerEarth, top 80 national finalist out of 40,000+ participants; Quantum Arena 1.0 winner (national quantum computing hackathon); Hero IIC 2K26 1st runner-up (international hackathon); ISRO Bharatiya Antariksh Hackathon 2025 top 10 nationwide; Meta Hacker Cup 2025 global rank 141, top 1.5%; Flipkart GRID 8.0 semifinalist among 165,000+ participants; CodeChef 3 star with global rank 94 in Starters 250 and 250+ LeetCode problems solved">
 
 <sub>Proof → [Quantum Arena repo](https://github.com/HuzaifaKhan-1/Quantum-Arena-1.0---Team-NeuroNix) · [LeetCode](https://leetcode.com/u/Huzaifa_Khan11/) · [CodeChef](https://www.codechef.com/users/huzaifakhan11) <!-- TODO: add certificate / LinkedIn post links for Hero IIC, ISRO BAH, Meta Hacker Cup and Flipkart GRID --></sub>
 
-<img src="assets/svg/divider.svg" width="100%" alt="">
+<img src="assets/svg/divider.svg?v=de5de555" width="100%" alt="">
 
 <!-- ============================== 5 · FEATURED PROJECTS ============================== -->
 ## 🚀 Featured Projects
@@ -56,7 +56,7 @@ AI & Software Engineer and final-year Computer Engineering student (GPA 10.0/10)
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/svg/proj-foreguard.svg" width="100%" alt="Fire spreading cell by cell across a grid while an AI scan line sweeps it">
+<img src="assets/svg/proj-foreguard.svg?v=8b391b81" width="100%" alt="Fire spreading cell by cell across a grid while an AI scan line sweeps it">
 
 ### 🔥 ForeGuard AI
 Computer-vision models on satellite imagery (97% accuracy) that predict and simulate forest fires and send real-time SMS/call alerts.
@@ -66,7 +66,7 @@ Computer-vision models on satellite imagery (97% accuracy) that predict and simu
 [Repo →](https://github.com/HuzaifaKhan-1/AI-Based-Forest-Fire-Defense-System)
 </td>
 <td width="50%" valign="top">
-<img src="assets/svg/proj-qumail.svg" width="100%" alt="Qubits stream into an envelope that is sealed by a quantum padlock">
+<img src="assets/svg/proj-qumail.svg?v=3a22cddf" width="100%" alt="Qubits stream into an envelope that is sealed by a quantum padlock">
 
 ### ⚛️ QuMail
 Full-stack email client using post-quantum cryptography (Qiskit) for end-to-end encrypted communication.
@@ -78,7 +78,7 @@ Full-stack email client using post-quantum cryptography (Qiskit) for end-to-end 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/svg/proj-warehouse.svg" width="100%" alt="Boxes travel along a conveyor belt under an AI freshness scanner">
+<img src="assets/svg/proj-warehouse.svg?v=5ae7d0d9" width="100%" alt="Boxes travel along a conveyor belt under an AI freshness scanner">
 
 ### 📦 Smart Warehouse
 AI spoilage prediction, shelf-life estimation and warehouse optimisation that cut post-harvest losses by 30%.
@@ -88,7 +88,7 @@ AI spoilage prediction, shelf-life estimation and warehouse optimisation that cu
 [Repo →](https://github.com/HuzaifaKhan-1/Smart-Warehouse---Nari-Shakti)
 </td>
 <td width="50%" valign="top">
-<img src="assets/svg/proj-producthub.svg" width="100%" alt="A .NET badge next to product cards with soft sparkles">
+<img src="assets/svg/proj-producthub.svg?v=89888fcf" width="100%" alt="A .NET badge next to product cards with soft sparkles">
 
 ### 🛒 ProductHub
 Layered ASP.NET Core Web API + MVC product platform with JWT auth, search and filters, dashboard analytics and export.
@@ -100,7 +100,7 @@ Layered ASP.NET Core Web API + MVC product platform with JWT auth, search and fi
 </tr>
 </table>
 
-<img src="assets/svg/divider.svg" width="100%" alt="">
+<img src="assets/svg/divider.svg?v=de5de555" width="100%" alt="">
 
 <!-- ============================== 6 · TECH STACK ============================== -->
 ## 🧠 Tech Stack
@@ -143,7 +143,7 @@ Layered ASP.NET Core Web API + MVC product platform with JWT auth, search and fi
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat&logoColor=white&logo=qiskit" alt="Qiskit"> <img src="https://img.shields.io/badge/Post--Quantum_Cryptography-0F766E?style=flat&logoColor=white" alt="Post-Quantum Cryptography">
 </p>
 
-<img src="assets/svg/divider.svg" width="100%" alt="">
+<img src="assets/svg/divider.svg?v=de5de555" width="100%" alt="">
 
 <!-- ============================== 7 · ACTIVITY ============================== -->
 ## 📈 Activity
@@ -157,7 +157,7 @@ Layered ASP.NET Core Web API + MVC product platform with JWT auth, search and fi
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/HuzaifaKhan-1/HuzaifaKhan-1/output/snake-light.svg" width="100%">
 </picture>
 
-<img src="assets/svg/footer.svg" width="100%" alt="">
+<img src="assets/svg/footer.svg?v=a9bc603b" width="100%" alt="">
 
 </div>
 
@@ -165,6 +165,6 @@ Layered ASP.NET Core Web API + MVC product platform with JWT auth, search and fi
 <summary>🐈 <code>./schrodinger.sh</code></summary>
 <br>
 <div align="center">
-<img src="assets/svg/schrodinger.svg" width="560" alt="A terminal runs schrodinger.sh: the box opens, an ASCII cat flickers between alive and asleep, then collapses to alive — thanks for scrolling this far">
+<img src="assets/svg/schrodinger.svg?v=fcfd310d" width="560" alt="A terminal runs schrodinger.sh: the box opens, an ASCII cat flickers between alive and asleep, then collapses to alive — thanks for scrolling this far">
 </div>
 </details>
