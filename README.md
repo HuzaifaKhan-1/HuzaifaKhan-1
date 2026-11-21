@@ -44,7 +44,7 @@ AI & Software Engineer and final-year Computer Engineering student (GPA 10.0/10)
 <!-- ============================== 4 · PROOF OF WORK ============================== -->
 ## 🏆 Proof of Work
 
-<img src="assets/svg/achievements.svg" width="100%" alt="Achievements: Quantum Arena 1.0 winner (national quantum computing hackathon); Hero IIC 2K26 1st runner-up (international hackathon); ISRO Bharatiya Antariksh Hackathon 2025 top 10 nationwide; Meta Hacker Cup 2025 global rank 141, top 1.5%; Flipkart GRID 8.0 semifinalist among 165,000+ participants; CodeChef 3 star with global rank 94 in Starters 250 and 250+ LeetCode problems solved">
+<img src="assets/svg/achievements.svg" width="100%" alt="Achievements: Quantum Arena 1.0 winner (national quantum computing hackathon); Hero IIC 2K26 1st runner-up (international hackathon); ISRO Bharatiya Antariksh Hackathon 2025 top 10 nationwide; Meta Hacker Cup 2025 global rank 141, top 1.5%; Flipkart GRID 8.0 semifinalist among 165,000+ participants; CodeChef 3 star with global rank 94 in Starters 250 and 250+ LeetCode problems solved; HackCellence 2026 by Booking Holdings with HackerEarth, top 80 national finalist out of 40,000+ participants">
 
 <sub>Proof → [Quantum Arena repo](https://github.com/HuzaifaKhan-1/Quantum-Arena-1.0---Team-NeuroNix) · [LeetCode](https://leetcode.com/u/Huzaifa_Khan11/) · [CodeChef](https://www.codechef.com/users/huzaifakhan11) <!-- TODO: add certificate / LinkedIn post links for Hero IIC, ISRO BAH, Meta Hacker Cup and Flipkart GRID --></sub>
 
